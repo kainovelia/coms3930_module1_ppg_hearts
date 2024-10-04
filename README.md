@@ -1,4 +1,5 @@
 # PPG Hearts Loop
+Project: To create a series of concentric hearts entirely using code, and alternating colors to achieve a "moving" outwards effect.
 ![ppg_hearts gif](https://github.com/user-attachments/assets/fdccbb76-cbea-43fe-8785-d1f948c7dcec)
 
 What you will need:
@@ -29,6 +30,6 @@ How to recreate this project:
 1. After setting up, connect your board to your computer with the USB-C cable.
 2. Open Arduino IDE. Click the upper-left dropdown menu to select your Board and Port. It will usually pop-up as "LilyGo T-Display" on port "COM xx".
 4. Open module.ino and click the right arrow button in the top-left to upload the code to your board.
-5. Marvel at the moving hearts~
+5. Marvel at the moving hearts~ And feel free to experiment--try changing the colors, the sizes of the hearts, whatever you'd like!
 
 Read more about my creative process at: (https://tinyurl.com/ppg-heart-documentation)
